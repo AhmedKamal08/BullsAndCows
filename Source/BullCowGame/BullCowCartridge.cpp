@@ -36,7 +36,7 @@ void UBullCowCartridge::InitGame()
 	
 	PrintLine(TEXT("You have %i lives"), Lives );
 	PrintLine(TEXT("The number of words is : %i"), Words.Num());
-	PrintLine(TEXT("The hidden words is : %s"), *Hiddenword);
+	//PrintLine(TEXT("The hidden words is : %s"), *Hiddenword);
 
 }
 

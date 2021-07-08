@@ -7,3 +7,5 @@
 * The game is textbased game where you have to enter one letter at a time guessing the hidden word
 
 * You have four tries before you lose
+
+![image info](./img/Untitled.png)
